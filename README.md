@@ -52,4 +52,5 @@ PORT=5000
 | GET | /api/auth/user | Get logged-in user profile | Yes ✅ |
 
 ## Deployment
-Deployed on Render: https://your-render-url.onrender.com
+Deployed on Render: ## Deployment
+Deployed on Render: https://bearer-token-1-v72y.onrender.com
